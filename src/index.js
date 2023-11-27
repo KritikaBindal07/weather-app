@@ -15,3 +15,8 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+//a049b193dbc1a0846606c6fb87ae847b
+
+//https://api.openweathermap.org/data/2.5/weather?q=pune&appid=93e4d5dd9f0c6346d3014962f4b61652
